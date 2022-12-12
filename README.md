@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Syed Aareez
-- 👀 Check out my portfolio <a href="https://syedaareez.vercel.app/" style="color:#5ea5d1; ">Syed Aareez</a>
+- 👀 Check out <a href="https://syedaareez.vercel.app/" style="color:#5ea5d1; ">My portfolio</a><br></br>
 <a href="https://www.linkedin.com/in/syed-aareez-63414b197/" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
 
 <!---
